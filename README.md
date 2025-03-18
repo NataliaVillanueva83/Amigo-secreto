@@ -13,4 +13,4 @@ un "amigo secreto". Es ideal para organizar intercambios de regalos de manera di
 
 ## 🚀 Cómo Usarlo  
 1. Clona este repositorio:  
-git clone 
+git clone https://github.com/NataliaVillanueva83/Amigo-secreto.git
